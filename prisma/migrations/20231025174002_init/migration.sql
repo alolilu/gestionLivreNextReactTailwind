@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Livre" ALTER COLUMN "description" SET DATA TYPE VARCHAR(1055);
